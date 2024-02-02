@@ -36,7 +36,7 @@
 
 ## 💌 Contact Me ! 💌
 
-Email: bluelayzxx@gmail.com
+Email: bluelayzxx@gmail.com <br>
 Blog : https://lotubii.tistory.com/
 
 
