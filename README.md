@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Yeonod)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=yeonu)
 <!--![github-header-image (2)](https://github.com/yeonod/yeonod/assets/104813592/82f68a64-4198-472d-9786-6132538a3c84)-->
 
 ## 🚀 Tech Stack 🚀
@@ -42,9 +42,9 @@ Blog : https://lotubii.tistory.com/
 <br>
 
 ## 🫧 GitHub Stats 🫧
-![yeonod's github stats](https://github-readme-stats.vercel.app/api?username=yeonod&hide=stars&show_icons=true)
+![yeonu's github stats](https://github-readme-stats.vercel.app/api?username=nuyeo&hide=stars&show_icons=true)
     
 <!---
-bluelayz/bluelayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nuyeo/nuyeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
