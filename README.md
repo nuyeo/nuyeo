@@ -11,7 +11,7 @@
 
 ### Framework & Etc
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=nest&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-E0234E.svg?style=for-the-badge&logo=NestJs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,6 +40,8 @@ Email: bluelayzxx@gmail.com <br>
 Blog : https://lotubii.tistory.com/
 
 
+## 🫧 GitHub Stats 🫧
+![yeonod's github stats](https://github-readme-stats.vercel.app/api?username=yeonod&hide=stars&show_icons=true)
     
 <!---
 bluelayz/bluelayz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
