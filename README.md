@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=yeonu)
+<!--![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=yeonu)-->
 <!--![github-header-image (2)](https://github.com/yeonod/yeonod/assets/104813592/82f68a64-4198-472d-9786-6132538a3c84)-->
+![header](https://github.com/nuyeo/nuyeo/assets/104813592/1cab5cff-aae0-4a28-bd2a-8dcaba4e791d)
+
+
 
 ## 🚀 Tech Stack 🚀
 
