@@ -42,11 +42,13 @@
 ### 💌 Contact Me !
 
 #### Contact
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluelayzxx@gmail.com)
-![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00.svg?style=flat-square&logo=kakaotalk&logoColor=Black&link=https://open.kakao.com/me/nuyeo)
+
+<a herf="mailto:bluelayzxx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a herf="https://open.kakao.com/me/nuyeo" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?style=flat-square&logo=kakaotalk&logoColor=Black&link=https://open.kakao.com/me/nuyeo"/></a>
 
 #### Blog
-![Tistory](https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white&link=https://lotubii.tistory.com/)
+
+<a herf="https://lotubii.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white&link=https://lotubii.tistory.com/"/></a>
 
 <br>
 
