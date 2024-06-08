@@ -39,14 +39,15 @@
 </div>
 <br>
 
-### 💌 Contact Me !
+### 🔗 Links
 
-#### Contact
+#### Contact Me
 
 <a href="mailto:bluelayzxx@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://open.kakao.com/me/nuyeo" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?style=flat-square&logo=kakaotalk&logoColor=Black&link=https://open.kakao.com/me/nuyeo"/></a>
+<a href="https://open.kakao.com/me/nuyeo" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00.svg?style=flat-square&logo=kakaotalk&logoColor=Black"></a>
+<a href="www.linkedin.com/in/연우-구-b15102312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 
-#### Blog
+#### About Me
 
 <a href="https://lotubii.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000.svg?style=flat-square&logo=Tistory&logoColor=white&link=https://lotubii.tistory.com/"/></a>
 
